@@ -1,4 +1,4 @@
-## Lending Club Loan Analysis and Prediction
+## Fraud Loan Analysis and Prediction
 
 ### Basic Information:
 The purpose of this project is to process the dataset, analyze it, do some feature engineering, and finally make a predictive loan model for an applicant.

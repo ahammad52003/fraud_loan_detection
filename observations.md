@@ -1,4 +1,4 @@
-## Lending Club Loan Analysis and Prediction
+## Fraud Loan Analysis and Prediction
 
 ### Feature engineering:
 <li> Removing application type improves the score a little bit

@@ -11,8 +11,7 @@ In this project i use Python 3.0. and Python libraries are also required:
 <li> matplotlib
 <li> scikit-learn
 
-### Datasets 
-Dataset can be downloaded from this link: https://drive.google.com/drive/folders/1SrC90L7273QT2r3d6UBFmifwxo5qVqlY
+
 
 
 ### Contributors

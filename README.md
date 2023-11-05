@@ -18,6 +18,4 @@ In this project i use Python 3.0. and Python libraries are also required:
 
 Md Hanif Sarder
 
-### License
 
-MIT
